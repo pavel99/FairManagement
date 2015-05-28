@@ -1,0 +1,55 @@
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.pdb
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csprojResolveAssemblyReference.cache
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.Form1.resources
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.Properties.Resources.resources
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csproj.GenerateResource.Cache
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.MainFormUI.resources
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneSpecificVisitorUI.resources
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
+E:\Farida.Asp.net\24-05-2015\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
+C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
+C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
+C:\Users\Mahmud\Desktop\FairManagement\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.Properties.Resources.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.MainFormUI.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneSpecificVisitorUI.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csproj.GenerateResource.Cache
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.pdb
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.VisitorEntryUI.resources
+G:\asp.net\00.WinForm\FairManagementVer1.1-master\FairManagementSystemVer1\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csprojResolveAssemblyReference.cache
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.pdb
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csprojResolveAssemblyReference.cache
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.Properties.Resources.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.VisitorEntryUI.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.MainFormUI.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneSpecificVisitorUI.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
+G:\asp.net\00.WinForm\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe.config
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.exe
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.pdb
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.exe
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\bin\Debug\FairManagementSystemVer1.pdb
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.Properties.Resources.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.VisitorEntryUI.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.MainFormUI.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneSpecificVisitorUI.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneTypeUI.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.UI.ZoneWiseVisitorUI.resources
+E:\SEIP Training\HomePractice\FairManagementSystemApp\FairManagementSystemVer1\obj\Debug\FairManagementSystemVer1.csproj.GenerateResource.Cache
